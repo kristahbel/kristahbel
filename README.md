@@ -1,7 +1,8 @@
-NAME: Mbachu Christabel <br>
-E-MAIL: mbachuanna@gmail.com <br>
-USED LANGUAGE: R <br>
-BIOSTACK: Genomics <br>
-SLACK USERNAME: @christabel <br>
+
+NAME: <e>Mbachu Christabel</e> <br>
+E-MAIL: <e>mbachuanna@gmail.com</e> <br>
+USED LANGUAGE: <e>R</e> <br>
+BIOSTACK: <e>Genomics</e> <br>
+SLACK USERNAME: <e>@christabel</e> <br>
 
 
